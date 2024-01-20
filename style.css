@@ -112,6 +112,11 @@ hr {
     height: 1px;
 }
 
+.socials {
+    display: flex;
+    justify-content: space-between;
+}
+
 @media screen and (max-width: 600px) {
     .container {
         margin: 0 10px 0 10px;
